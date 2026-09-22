@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "01723a3c0950f0e405ae1c67",
+  "owner": "qh6b3qjke",
+  "repo": "page-5bbb426578e95ec4beb2e03b",
+  "title": "万达加速",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5bbb426578e95ec4beb2e03b",
+      "a": "万达加速",
+      "b": "2027官方最新地址导航",
+      "entity": "万达加速",
+      "brand": "万达加速",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "ce7bd854a0fd06c3326331fcd8cd0000bf6990cad0354ad4fe85450677c1abbd",
+      "content": {
+        "primary_entity": "万达加速",
+        "keyword1": "万达加速",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，Windows、macOS、Android、iOS、路由器均有对应方案，导入订阅后即可使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选择适合的套餐，按客户端文档完成订阅配置，即可开始使用万达加速。",
+          "AI_CLOSING_TITLE": "开始使用万达加速",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版和团队版三档套餐，覆盖每月 100GB 到 1000GB 流量以及 3 到 20 台设备在线需求。支持多平台客户端订阅导入，旗舰版与团队版还提供流媒体解锁、IPLC 专线和优先支持，适合游戏加速与多设备网络优化场景。",
+          "AI_FEATURES_INTRO": "从套餐对比到客户端配置，万达加速围绕实际使用场景提供清晰选择路径。",
+          "AI_FEATURES_TITLE": "选择适合自己的加速方案",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、3 台设备；旗舰版 300GB、5 台设备；团队版 1000GB、20 台设备。",
+          "AI_FEATURE_TEXT_2": "Windows、macOS、Android、iOS 及路由器可分别选择对应客户端，按配置文档导入订阅。",
+          "AI_FEATURE_TEXT_3": "月付灵活尝试，年付方案可降低长期使用成本，旗舰版适合游戏与流媒体需求。",
+          "AI_FEATURE_TITLE_1": "套餐按用量分级",
+          "AI_FEATURE_TITLE_2": "多平台客户端",
+          "AI_FEATURE_TITLE_3": "灵活订阅周期",
+          "AI_GUIDE_INTRO": "三步完成从选择到使用的过程，先确认设备数量与流量需求，再配置订阅。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "万达加速提供海外网络加速服务，基础版、旗舰版、团队版满足不同设备数量与流量需求，支持多平台客户端订阅导入，适合游戏、流媒体及日常网络加速场景。",
+          "AI_HERO_SUBTITLE": "多设备海外加速选择",
+          "AI_HIGHLIGHT_1": "三档套餐，按流量与设备区分",
+          "AI_HIGHLIGHT_2": "月付年付灵活，长期使用更省",
+          "AI_HIGHLIGHT_3": "多平台客户端订阅导入",
+          "AI_PLANS_INTRO": "基础版每月 100GB 支持 3 台设备，旗舰版每月 300GB 支持 5 台设备并含 IPLC 专线与流媒体解锁，团队版每月 1000GB 支持 20 台设备。年付分别为 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常设备数量和流量消耗，在基础版、旗舰版、团队版中选择合适的一档。",
+          "AI_STEP_TEXT_2": "确认设备系统是否在支持范围内，查看对应客户端的适配说明与订阅要求。",
+          "AI_STEP_TEXT_3": "按照客户端配置文档导入订阅地址，完成连接配置后开始使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "万达加速套餐与客户端",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个账号可以同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。超出数量时，新设备登录会挤掉最早连接的设备。",
+          "AI_FAQ_QUESTION_2": "套餐流量用完后会怎样？",
+          "AI_FAQ_ANSWER_2": "当月流量耗尽后，连接会暂停至下个计费周期开始。如需继续使用，可以考虑升级到更高流量的套餐档位。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付按月扣费，适合短期使用；年付一次性支付全年费用，基础版 ¥150、旗舰版 ¥350、团队版 ¥850，比月付节省约两个月费用。",
+          "AI_FAQ_QUESTION_4": "IPLC 专线和普通节点有什么不同？",
+          "AI_FAQ_ANSWER_4": "IPLC 专线走独立通道，不经过公共互联网出口，延迟和抖动更低，适合对实时性要求高的联机游戏和视频会议场景。",
+          "AI_FAQ_QUESTION_5": "更换设备后需要重新配置吗？",
+          "AI_FAQ_ANSWER_5": "需要的，每台设备都需要单独安装客户端并导入订阅。只要在线设备数没有超出套餐上限，旧设备可以保留配置，也可以移除后释放名额。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "dbbnr.cn",
+    "host": "dbbnr.cn"
+  },
+  "file_hashes": {
+    "index.html": "8e325e2c5e58641e65bba1a2eca5e6cc6ca63b0515a571cadf9d092169410d58",
+    "sitemap.xml": "7f1a92d7076f715e14241383094061d7868f871da6eda6f9d11027b1da1acd3b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1e7e7dd681f85a55beeb29aa553f826eec4549643bb0c9b27709e9fbff1906ca",
+    "robots.txt": "d5981aef4469f6311e902f2c22471bff94fa158ac0c46b6481c4d37eac23d69d",
+    "15742d2ce1f8fa05a00ee86787fa10a2.txt": "ea51026aa5585e4832d542d296b7530371fec56cead86d26f774ba0946fb10d8"
+  },
+  "revision": "e36dc281957be6e4818d922c84e3c01a3ab8d1546be4a4438d7ac996be8c090a"
+}
